@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "409461056982",
+    "project_id": "cbsapperals",
+    "storage_bucket": "cbsapperals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409461056982:android:00a1a550d5da5f010f3077",
+        "android_client_info": {
+          "package_name": "com.example.cbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409461056982-aetghkoq36nf211t3uko7l16iotlf5rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWgEzQLr5bp3LI7rx_QrxeWy3F7Q-0S9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409461056982-6f3nk3nmmi99s7r9lu8c19t1pe358f17.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "409461056982-v67m7ipokt2sprpodluoc8kdhcfk0ops.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cbsapperals"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409461056982:android:2797578c80c3ccbe0f3077",
+        "android_client_info": {
+          "package_name": "com.example.cbsapperals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409461056982-c9vt5f6dlnlee0g4qi37t3pgadmecsfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cbsapperals",
+            "certificate_hash": "f7588b85c3c9ebdb571270174cb80dd54ad91fd3"
+          }
+        },
+        {
+          "client_id": "409461056982-aetghkoq36nf211t3uko7l16iotlf5rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWgEzQLr5bp3LI7rx_QrxeWy3F7Q-0S9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409461056982-6f3nk3nmmi99s7r9lu8c19t1pe358f17.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "409461056982-v67m7ipokt2sprpodluoc8kdhcfk0ops.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cbsapperals"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
