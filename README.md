@@ -1,5 +1,5 @@
 # cbs
-  **key features:**
+ ## Key Features
 - **Comprehensive Catalog:** Browse through a vast catalog of wedding clothing options for men, women, and children.
 
 - **Detailed Product Information:** Get all the information you need about each product, from descriptions and prices to available sizes and high-quality images.
